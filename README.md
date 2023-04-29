@@ -3,7 +3,7 @@ Foodiepedia displays nutrition and calorie data, recommends recipes and their co
 
 README
 
-This repos contains all files needed for our project from scraping data, cleaning data to UI designing.
+This repository contains all files needed for our project from scraping data, cleaning data to UI designing.
 You can find the instruction video here: https://www.youtube.com/watch?v=5vnqurRSD2Q
 
 
